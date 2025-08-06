@@ -1,0 +1,16 @@
+node_modules
+.next
+.env
+.env.*
+dist
+out
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea
+.vscode
+*.log
+*.local
+*.cache
+coverage
